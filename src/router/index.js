@@ -17,6 +17,7 @@ const router = new VueRouter({
       name: "home",
       component: NotFound
     },
+    //User route
     {
       path: "/user",
       component:UserPage
